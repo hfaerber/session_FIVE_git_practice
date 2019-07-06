@@ -11,9 +11,9 @@
 
     1.3 Dates of my Ohio trip
 
-	    1.3.1 Date I will fly to Ohio
+	   1.3.1 Date I will fly to Ohio
 
-	    1.3.2 Date I will fly home from Ohio
+	   1.3.2 Date I will fly home from Ohio
 
     1.4 Date I will start Mod 0 Capstone
 
